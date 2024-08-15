@@ -2,10 +2,8 @@
 
 int main()
 {   
-    char name[20];
-    printf("Enter your name: ");
-    scanf("%s", name);
-    printf("¡Hola! %s", name);
-
+    double v=((3+2)/25.0);
+    double result=v*v;
+    printf("%lf", result);
 return 0;
 }
