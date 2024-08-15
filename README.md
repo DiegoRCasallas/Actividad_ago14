@@ -5,7 +5,7 @@ Este repositorio contiene una serie de archivos en lenguaje C que responden a lo
 
 ## Integrantes👽
 
-- Carlos Cárdenas
+- Carlos Cardona
 - Laura Hernández
 - Diego Casallas
 
