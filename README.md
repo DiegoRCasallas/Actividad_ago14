@@ -3,7 +3,7 @@
 Este repositorio contiene una serie de archivos en lenguaje C que responden a los ejercicios propuestos en la clase de Paradigmas de Programación. Cada archivo .c corresponde a un ejercicio específico, abordando diferentes conceptos y técnicas clave del curso.
 
 
-## Integrantes
+## Integrantes👽
 
 - Carlos Cárdenas
 - Laura Hernández
